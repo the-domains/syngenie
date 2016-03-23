@@ -4,8 +4,15 @@
         <description><![CDATA[syngenie]]></description>
         <link>https://thegrid.ai/syngenie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 23:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 23:54:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/syngenie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Name It]]></title>
+            <description><![CDATA[<article><h1>You Name It</h1><p>Uploaded by syngenie on 2016-02-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf9ae95b0dad92cfc00a0ff37af8915daeee00c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=1_6BPTjyhpM</link>
+            <guid isPermaLink="false">1c7d9501-3d38-4fd7-9c99-456ba6d5625c</guid>
+            <pubDate>Wed, 23 Mar 2016 23:54:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wrong Button]]></title>
             <description><![CDATA[<article><h1>Wrong Button</h1><p>Uploaded by syngenie on 2016-02-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41b305d07a4f327d74d7cc4cae994e882df88de0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=yFgp3n_hIzg</link>
             <guid isPermaLink="false">ae7027b8-7e1a-4ce9-9365-584ff8a2e9df</guid>
             <pubDate>Wed, 23 Mar 2016 23:42:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BrainSync]]></title>
-            <description><![CDATA[<article><h1>BrainSync</h1><p>Uploaded by syngenie on 2016-02-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc46a9afd77035d60a8c7a9cb0de0684d971f8a7.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=U9hcKaV7p8Q</link>
-            <guid isPermaLink="false">59d2a0dc-ea56-4fab-9f84-8f1ebf7e9fc9</guid>
-            <pubDate>Wed, 23 Mar 2016 23:41:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
