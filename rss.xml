@@ -4,8 +4,15 @@
         <description><![CDATA[syngenie]]></description>
         <link>https://thegrid.ai/syngenie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 23:57:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 20:22:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/syngenie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Full Disclosure]]></title>
+            <description><![CDATA[<article><h1>Full Disclosure</h1><p>Uploaded by syngenie on 2016-03-25.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=X5Uy99dlaRs</link>
+            <guid isPermaLink="false">de6a8369-f5c4-4f58-9706-0d08ab5d4915</guid>
+            <pubDate>Fri, 25 Mar 2016 20:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tap Dance]]></title>
             <description><![CDATA[<article><h1>Tap Dance</h1><p>Uploaded by syngenie on 2016-02-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0183c675955ac4e9ab8f4396bd71f01d58c5c6b8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=nAgr-3KqwWA</link>
             <guid isPermaLink="false">07677549-1f00-42b7-9064-31f0a00cc9cb</guid>
             <pubDate>Wed, 23 Mar 2016 23:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Become The Teapot]]></title>
-            <description><![CDATA[<article><h1>Become The Teapot</h1><p>Uploaded by syngenie on 2016-02-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f154ccc1980129476f6b252d63859b611f28047f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=UJzLhzjrUi8</link>
-            <guid isPermaLink="false">c591e66f-e7fe-4969-85f1-1b900b04970c</guid>
-            <pubDate>Wed, 23 Mar 2016 23:46:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
