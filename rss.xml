@@ -4,11 +4,18 @@
         <description><![CDATA[syngenie]]></description>
         <link>https://thegrid.ai/syngenie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 20:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 00:50:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/syngenie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Not What You Thought]]></title>
+            <description><![CDATA[<article><h1>Not What You Thought</h1><p>Uploaded by syngenie on 2016-03-29.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78161df09f32795ffc255def03446b9e1f6f93b8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=DMKhS9tWgsA</link>
+            <guid isPermaLink="false">786d1eb5-76f4-4893-8363-6f20740c9789</guid>
+            <pubDate>Tue, 29 Mar 2016 00:50:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Full Disclosure]]></title>
-            <description><![CDATA[<article><h1>Full Disclosure</h1><p>Uploaded by syngenie on 2016-03-25.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Full Disclosure</h1><p>Uploaded by syngenie on 2016-03-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/437bfed5753519c93b589ae530733851492f72ca.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=X5Uy99dlaRs</link>
             <guid isPermaLink="false">de6a8369-f5c4-4f58-9706-0d08ab5d4915</guid>
             <pubDate>Fri, 25 Mar 2016 20:22:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=TMsSzzvzvcA</link>
             <guid isPermaLink="false">e8c9a618-46f9-457c-b95b-1a70b7652681</guid>
             <pubDate>Wed, 23 Mar 2016 23:48:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head in the Sand]]></title>
-            <description><![CDATA[<article><h1>Head in the Sand</h1><p>Uploaded by syngenie on 2016-02-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c46d6b74dc7e533697f451d5c8a9c60b9e77db2.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=nAgr-3KqwWA</link>
-            <guid isPermaLink="false">07677549-1f00-42b7-9064-31f0a00cc9cb</guid>
-            <pubDate>Wed, 23 Mar 2016 23:47:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
