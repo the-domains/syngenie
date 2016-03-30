@@ -4,8 +4,15 @@
         <description><![CDATA[syngenie]]></description>
         <link>https://thegrid.ai/syngenie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 04:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 04:22:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/syngenie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Not What You Thought]]></title>
+            <description><![CDATA[<article><h1>Not What You Thought</h1><p>Uploaded by syngenie on 2016-03-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93066bc2d3ee24d3aad4e18141ab97632b5a3ee2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=L4WtVgT1jKY</link>
+            <guid isPermaLink="false">ad68f69b-532a-4aef-971b-9e5951e66462</guid>
+            <pubDate>Wed, 30 Mar 2016 04:22:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Full Disclosure]]></title>
             <description><![CDATA[<article><h1>Full Disclosure</h1><p>Uploaded by syngenie on 2016-03-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd5d49afc307de7f822b62d5bdb7eb08caf9d06.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=DMKhS9tWgsA</link>
             <guid isPermaLink="false">786d1eb5-76f4-4893-8363-6f20740c9789</guid>
             <pubDate>Tue, 29 Mar 2016 00:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Full Disclosure]]></title>
-            <description><![CDATA[<article><h1>Full Disclosure</h1><p>Uploaded by syngenie on 2016-03-25.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/437bfed5753519c93b589ae530733851492f72ca.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=X5Uy99dlaRs</link>
-            <guid isPermaLink="false">de6a8369-f5c4-4f58-9706-0d08ab5d4915</guid>
-            <pubDate>Fri, 25 Mar 2016 20:22:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tap Dance]]></title>
@@ -68,13 +68,6 @@
             <link>https://www.youtube.com/watch?v=fJaBb74laZ0</link>
             <guid isPermaLink="false">9ab21cb5-fb44-41c4-8aa1-02c90dfb046f</guid>
             <pubDate>Wed, 23 Mar 2016 23:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sync Or Swim]]></title>
-            <description><![CDATA[<article><h1>Sync Or Swim</h1><p>Uploaded by syngenie on 2016-02-03.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f35341dc1fd9803f9b6baf7865a2ef9e07c1fb8.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=deuHChb02SY</link>
-            <guid isPermaLink="false">5497ce7e-7be4-4383-94a9-ab1e5c397c4b</guid>
-            <pubDate>Wed, 23 Mar 2016 23:48:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
